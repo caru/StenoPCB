@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 02/09/2013 10:13:10
+
+BeginCmp
+TimeStamp = /5224449A;
+Reference = D101;
+ValeurCmp = DIODE;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /522444AD;
+Reference = D102;
+ValeurCmp = DIODE;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /522444A7;
+Reference = D103;
+ValeurCmp = DIODE;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /522444B3;
+Reference = D104;
+ValeurCmp = DIODE;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /52244480;
+Reference = K101;
+ValeurCmp = MAIN_LEFT_TO_VOWELS_LEFT;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /522443F8;
+Reference = P101;
+ValeurCmp = MAIN_LEFT_IN;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /522444CA;
+Reference = SW101;
+ValeurCmp = SPST;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /522444E4;
+Reference = SW102;
+ValeurCmp = SPST;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /522444DE;
+Reference = SW103;
+ValeurCmp = SPST;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /522444EA;
+Reference = SW104;
+ValeurCmp = SPST;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+EndListe
