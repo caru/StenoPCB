@@ -73,7 +73,7 @@
       (hpglpenoverlay 2)
       (psnegative false)
       (psa4output false)
-      (plotreference true)
+      (plotreference false)
       (plotvalue true)
       (plotothertext true)
       (plotinvisibletext false)
